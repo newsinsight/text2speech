@@ -2,6 +2,7 @@
 <br>
 
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
+<br>
 
 This project is a simple, efficient and robust Text-to-Speech API developed using React.js. This API converts user-inputted text into synthesized speech and then stores the resulting audio as an audio file within a GitHub repository. It is a powerful tool for content creators, developers, educators and anyone who wants to convert text into speech.
 
