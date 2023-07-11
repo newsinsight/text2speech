@@ -1,4 +1,5 @@
 # React Text-to-Speech API
+<br>
 
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
 
@@ -31,30 +32,30 @@ Firstly, you'll need to have [Node.js](https://nodejs.org/) and [npm](https://ww
 
 Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/username/react-text-to-speech.git
 cd react-text-to-speech
-\`\`\`
+```
 
 Install dependencies:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 Then, you need to create a `.env` file at the root of the project and add your GitHub Personal Access Token as `GITHUB_TOKEN`:
 
-\`\`\`env
+```env
 GITHUB_TOKEN=your_personal_access_token
-\`\`\`
+```
 
 ## Usage <a name="usage"></a>
 
 To start the development server:
 
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 Then, open your web browser and visit `http://localhost:3000`. Enter the text you want to convert into speech into the text field and hit the 'Convert' button. The resulting audio will be saved as an audio file and stored in the specified GitHub repository.
 
