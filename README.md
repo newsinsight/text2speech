@@ -34,7 +34,7 @@ Firstly, you'll need to have [Node.js](https://nodejs.org/) and [npm](https://ww
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/react-text-to-speech.git
+git clone https://github.com/9to5Network/react-text-to-speech.git
 cd react-text-to-speech
 ```
 
@@ -70,4 +70,4 @@ React Text-to-Speech API is [MIT Licensed](./LICENSE).
 
 ---
 
-Made with 💖 by [Your Name](https://github.com/username)
+Made with 💖 by [9to5Network Limited](https://network.9to5newsinsight.com)
