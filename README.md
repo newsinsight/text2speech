@@ -70,4 +70,4 @@ React Text-to-Speech API is [MIT Licensed](./LICENSE).
 
 ---
 
-Made with 💖 by [9to5Network Limited](https://network.9to5newsinsight.com)
+Made with 💖 by [9to5Network Limited](https://www.9to5.live)
